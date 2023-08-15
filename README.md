@@ -7,8 +7,6 @@
 
 - 🤝 I’m looking for help with [Eternia](https://discord.gg/X5wAaZ2C7F)
 
-- 👨‍💻 All of my projects are available at [My Linktree!](https://linktr.ee/sleepingraven)
-
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me: **SleepingRaven#0604 on Discord**
