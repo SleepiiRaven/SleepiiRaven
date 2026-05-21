@@ -1,9 +1,15 @@
-<h1 align="center">Hi, I'm Emma,</h1>
-<h3 align="center">I am an operating systems + software dev</h3>
+<h2 align="center">Hi, I'm Emma,</h2>
+<h3 align="center">I am a full-stack developer who wants to specialize in operating systems</h3>
 
 - 🌱 I’m currently learning **Operating Systems & Embedded Systems**
 
-- 💬 Ask me about **3-Dimensional Mathematics & Arduinos**
+- 💬 Ask me about **3-Dimensional Mathematics, Arduinos and my Software Design Projects**
 
 - 📫 How to reach me: **emma_80790 on Discord**
-![Metrics](https://metrics.lecoq.io/sleepiiraven?template=classic&lines=1&languages=1&isocalendar=1&repositories=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&config.timezone=America%2FLos_Angeles)
+
+<h3 align="center">Technical Stuff</h3>
+- I specialize in Java, C and Python, but love to learn new languages and frameworks.
+- I am very experienced in the Git workflow, either from terminal or within IDE.
+- I'm trying my best :,)
+- I made some arduino projects! I love making physical things that work which is why I really want to work in Operating Systems!
+- I aspire to change someone's day for the better every day!
