@@ -8,8 +8,13 @@
 - 📫 How to reach me: **emma_80790 on Discord**
 
 <h3 align="center">Technical Stuff</h3>
+
 - I specialize in Java, C and Python, but love to learn new languages and frameworks.
+
 - I am very experienced in the Git workflow, either from terminal or within IDE.
+
 - I'm trying my best :,)
+
 - I made some arduino projects! I love making physical things that work which is why I really want to work in Operating Systems!
+
 - I aspire to change someone's day for the better every day!
